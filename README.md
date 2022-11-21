@@ -1,2 +1,2 @@
 # LiveSubtitles
-We help with CP kids
+Data input program for live subtitling for CP patients.
